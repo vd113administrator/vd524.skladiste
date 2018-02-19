@@ -1,4 +1,0 @@
-﻿Izmđu glavne aktivnosti i administratora postoji jos jedan par streliaca toka podataka: 
-	Zahtjev za promjenu imena grupe
-	Rezultat promjene imena grupe
-
